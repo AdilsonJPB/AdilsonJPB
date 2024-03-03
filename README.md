@@ -1,7 +1,14 @@
 Olá! Adilson aqui.
-- 💼 Projetos Atuais: Atualmente, estou trabalhando em um site responsivo para uma pequena empresa local, utilizando React.js para proporcionar uma experiência mais dinâmica aos usuários. Concluí recentemente um projeto pessoal de portfólio, onde destaquei minhas habilidades e projetos anteriores.
+- Seção de Skills:
 
-- 🤝 Colaborações: Estou aberto a colaborações em projetos que envolvam a criação de interfaces modernas e amigáveis ao usuário. Se você estiver trabalhando em algo empolgante, ficarei feliz em contribuir com minhas habilidades em Front-End.
+  - 🔧 Front-End: HTML, CSS, JavaScript
+  - 🚀 Ferramentas: VS Code, Git, npm
+  - 📚 Estudando Atualmente: React.js, SASS, Responsive Design
+
+- Projetos:
+  - 💼 Projetos Atuais: Atualmente, estou trabalhando em um site responsivo para uma pequena empresa local, utilizando React.js para proporcionar uma experiência mais dinâmica aos usuários. Concluí recentemente um projeto pessoal de portfólio, onde destaquei minhas habilidades e projetos anteriores.
+
+  - 🤝 Colaborações: Estou aberto a colaborações em projetos que envolvam a criação de interfaces modernas e amigáveis ao usuário. Se você estiver trabalhando em algo empolgante, ficarei feliz em contribuir com minhas habilidades em Front-End.
 
 - Objetivos Profissionais:
 
