@@ -1,26 +1,25 @@
 Olá! Adilson aqui.
-- Seção de Skills:
-
+<h1>Seção de Skills:</h1>
   - 🔧 Front-End: HTML, CSS, JavaScript
   - 🚀 Ferramentas: VS Code, Git, npm
   - 📚 Estudando Atualmente: React.js, SASS, Responsive Design
 
-- Projetos:
+<h1>Projetos:</h1>
   - 💼 Projetos Atuais: Atualmente, estou trabalhando em um site responsivo para uma pequena empresa local, utilizando React.js para proporcionar uma experiência mais dinâmica aos usuários. Concluí recentemente um projeto pessoal de portfólio, onde destaquei minhas habilidades e projetos anteriores.
 
   - 🤝 Colaborações: Estou aberto a colaborações em projetos que envolvam a criação de interfaces modernas e amigáveis ao usuário. Se você estiver trabalhando em algo empolgante, ficarei feliz em contribuir com minhas habilidades em Front-End.
 
-- Objetivos Profissionais:
+<h1>Objetivos Profissionais:</h1>
 
   - 🎯 Metas Profissionais: Meu objetivo principal é aprimorar minhas habilidades em Front-End, tornando-me proficiente em React.js e explorando o desenvolvimento Back-End com Node.js no futuro. Pretendo também contribuir para projetos de código aberto, participando ativamente da comunidade de desenvolvedores.
 
-- Perguntas e Respostas:
+<h1>Perguntas e Respostas:</h1>
 
   - 🌐 Conhecimento Técnico: Se você tiver dúvidas sobre HTML, CSS, JavaScript, React.js ou qualquer aspecto relacionado ao Front-End, fique à vontade para perguntar! Estou aqui para ajudar a esclarecer dúvidas e compartilhar conhecimento.
 
   - 🤔 Aconselhamento: Se você está começando na área de tecnologia, estou disponível para oferecer conselhos e compartilhar minha experiência. Não hesite em perguntar sobre a jornada de aprendizado ou para obter orientações práticas.
 
-- Hobbies Relacionados:
+<h1>Hobbies Relacionados:</h1>
 
   - 🎮 Jogos: Atualmente, estou viciado em [Nome do Jogo]. Adoro explorar mundos virtuais e participar de comunidades de jogadores online.
 
