@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+🔭No meomento não estou trabalhando na área de técnologia mas com muito foco e persisteência, eu sei que isso dia logo chegará.
+🌱 Estou estudando Front-end.
+👯 Se estiver precisando de alguém para colaborar em algum projeto, eu estarei ao dispor por quaisquer experiências são bem vindas.
+🤔 Eu gostaria muito da oportunidade de me ingressar na área de tecnologia, mas sei que ainda há um caminho longo pelo qual tenho que trilhar.
+💬 Quaisquer perguntas são bem vindas, as respondei com base naquilo em que já conheço seja sobre Back-end ou Front-end.
+⚡ Ah! e eu adoro jogar jogos, navegar pela internet, assistir meus youtubers favoritos tudo o que esteja relacionado a tecnologia!
 <!--
 **AdilsonJPB/AdilsonJPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
