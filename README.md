@@ -5,6 +5,7 @@ Olá! Adilson aqui.
   - 📚 Estudando Atualmente: React.js, SASS, Responsive Design
 
 <h1>Projetos:</h1>
+
   - 💼 Projetos Atuais: Atualmente, estou trabalhando em um site responsivo para uma pequena empresa local, utilizando React.js para proporcionar uma experiência mais dinâmica aos usuários. Concluí recentemente um projeto pessoal de portfólio, onde destaquei minhas habilidades e projetos anteriores.
 
   - 🤝 Colaborações: Estou aberto a colaborações em projetos que envolvam a criação de interfaces modernas e amigáveis ao usuário. Se você estiver trabalhando em algo empolgante, ficarei feliz em contribuir com minhas habilidades em Front-End.
